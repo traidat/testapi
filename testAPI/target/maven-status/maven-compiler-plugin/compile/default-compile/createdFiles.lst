@@ -1,0 +1,6 @@
+com/testAPI/JPAConfig.class
+com/testAPI/Repository/TestEntityRepository.class
+com/testAPI/DemoApplication.class
+com/testAPI/Service/TestEntityService.class
+com/testAPI/Controller/TestAPI.class
+com/testAPI/Entity/TestEntity.class
